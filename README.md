@@ -1,3 +1,3 @@
 # GitCollaborationToolPart2
-short ako
+very short ako
 #Git Best Practices
